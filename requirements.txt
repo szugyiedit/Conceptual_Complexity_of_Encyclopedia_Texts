@@ -1,0 +1,12 @@
+en-core-web-sm==2.1.0
+matplotlib==3.0.3
+networkx==2.3
+nltk==3.4.3
+pandas==0.24.2
+pyspotlight==0.7.2
+requests==2.22.0
+scikit-learn==0.21.2
+scipy==1.2.1
+sematch==1.0.4
+spacy==2.1.6
+tqdm==4.32.1
