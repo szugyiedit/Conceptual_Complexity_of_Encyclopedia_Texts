@@ -14,6 +14,7 @@ All the code was tested with:
 * Ubuntu 18.04
 * Python 3.6.8
 * jupyter-notebook 5.7.8
+* Git Large File Storage (LFS) 2.8.0
 * See further requirements in the requirements.txt file
 
 The Newsela articles are found in the folder 'newsela' and the Britannica articles in the folder 'britannica.' All CSV files that the notebooks generate are placed in the csv folder. All visualizations that the notebooks generate are placed in the png folder.
